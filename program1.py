@@ -1,1 +1,2 @@
 print ("Ganga")
+print ("Hi")
